@@ -1,2 +1,2 @@
-Collection of documents related to HPE ProLiant DL380 servers 
+## HPE ProLiant DL380 servers 
 from https://www.hpe.com/us/en/product-catalog/servers/proliant-servers
