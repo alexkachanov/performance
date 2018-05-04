@@ -5,4 +5,4 @@ This repository is my collection of documents related to low-latency trading and
 * NIC: Solarflare network card and Open Onload library
 * Networking: TCP/IP, Ethernet
 * OS: RedHat/CentOS tuning guides
-* Java
+* Java: lock-free algorithms
