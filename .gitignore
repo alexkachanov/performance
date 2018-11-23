@@ -1,1 +1,4 @@
 /.project
+/bin/
+/.settings/
+/.gitignore
