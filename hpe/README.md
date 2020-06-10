@@ -1,11 +1,10 @@
 # Documents About Servers
-
-This folder contains ompitmization documents for server class machines.
+This folder contains opitmization documents for server class machines.
 
 ## HPE ProLiant DL380 servers 
-HPE ProLiant DL380 servers are popular server class machines used for high-performance low-latency applications
+HPE ProLiant DL380 servers are popular server class machines used for high-performance low-latency applications.
 
-Serveral generations of these machines are used now. The latest generation is Gen10
+Serveral generations of these machines are in use now. The latest generation is Gen10 as of 2020-06-10.
 
 See: 
 * https://www.hpe.com/us/en/product-catalog/servers/proliant-servers
