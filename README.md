@@ -7,3 +7,6 @@ This repository is my collection of documents related to low-latency trading and
 * [OS: Linux](./linux/) in general
 * [OS: RedHat RHEL/CentOS](./redhat/) tuning guides
 * [Java](./java/): lock-free algorithms
+
+## Other Links
+* <a href="http://aldodma.wordpress.com/">Algo & DMA</a> - my tech blog about wring low-latency Java trading applications (in Russian)
