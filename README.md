@@ -9,4 +9,4 @@ This repository is my collection of documents related to low-latency trading and
 * [Java](./java/): lock-free algorithms
 
 ## Other Links
-* <a href="http://aldodma.wordpress.com/">Algo & DMA</a> - my tech blog about wring low-latency Java trading applications (in Russian)
+* <a href="http://algodma.wordpress.com/">Algo & DMA</a> - my tech blog about wring low-latency Java trading applications (in Russian)
